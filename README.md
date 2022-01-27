@@ -1,1 +1,1 @@
-# melbourne-house-prices-analysis
+# melbourne-house-prices-statistical-analysis
